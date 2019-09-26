@@ -1,6 +1,6 @@
 # reciclar_page
 
-A new Flutter project.
+A new Flutter project: Proyecto con page view horizontal que muestra tarjeta con informacion de materiales ciclables con una interfaz bonita  , inpirada en el app.
 
 ## Getting Started
 
@@ -14,7 +14,3 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-# UI_pagina_reciclaje
-# UI_CARDS_RECICLAJE
-# UI_CARDS_RECICLAJE
-# ecotrux_firebase
